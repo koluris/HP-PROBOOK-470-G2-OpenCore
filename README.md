@@ -6,17 +6,17 @@ So far the build is awesome, cold boot time to Mac in 23 seconds!
 
 ### Specifications
 
-* Processor: Core i3-5010U 2.3GHz (Turbo Boost up to 3.4GHz)
-* Graphics: Intel HD5500 (Up to 1GB of shared mem) / 900p 24bit
-* RAM: 4GB DDR3 1667MHz
+* Processor: Core i3-5010U 2.1GHz (Turbo Boost up to 3.2GHz)
+* Graphics: Intel HD5500 (Up to 2GB of shared mem) / 900p 24bit
+* RAM: 4GB DDR3 1600MHz
 * Hard Disk: SATA 320GB HDD
-* Wifi & Bluetooth: Intel Dual Band Wireless-AC 3165
+* Wifi & Bluetooth: Intel Dual Band Wireless-AC 3160
 
 ### What is near 100% completed
 
-* HD5500 1GB / Metal / DRM works on Chrome
+* HD5500 2GB / Metal / DRM works on Chrome
 * ALC??? Speaker / Mic / Headphones
-* Brightness, Volume shortcuts
+* Sleep, Brightness, Volume shortcuts
 * Trackpad Gestures / Doesn't stall after KB press
 * USB Ports USB2/3
 * Webcam
