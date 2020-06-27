@@ -21,6 +21,7 @@ So far the build is awesome, cold boot time to Mac in 23 seconds!
 * USB Ports USB2/3
 * Webcam
 * SD Card
+* Ethernet
 * Batt. indicator
 * Proper CPU PM (Balanced)
 * Sleep
