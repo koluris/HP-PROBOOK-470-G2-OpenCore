@@ -15,10 +15,10 @@ So far the build is awesome, it's stable and robust, cold boot time to Mac in 23
 ### What is near 100% completed
 
 * HD5500 2GB / Metal / DRM works on Chrome
-* ALC??? Speakers / Headphones / Mic
-* AC 3160 Wifi (limited bandwidth for now) / Bluetooth / AirDrop / Location Services
+* ALC233 Speakers / Headphones / Mic
+* AC 3160 Wifi / Bluetooth / AirDrop / Location Services
 * Trackpad with Gestures support
-* Proper mapping of available USB 2.0/3.0 ports
+* Proper mapping of USB 2.0/3.0 ports
 * RTL8111 Ethernet
 * Internal HD Webcam
 * SD Card reader
@@ -27,9 +27,9 @@ So far the build is awesome, it's stable and robust, cold boot time to Mac in 23
 * Sleep
 
 ### Bonus
-* DRM content like Netflix, please use Chrome
+* Please use Chrome for DRM content like Netflix
 * Use QuickESP to mount EFI partitions with ease, support me :)
-* ICC Profile that improves the screen's native colors
+* ICC Profile that improves the laptop's native colors
 
 ### What doesn't work
 * Trackpad tap works, but button click does not
