@@ -6,7 +6,7 @@ So far the build is awesome, it's stable and robust, cold boot time to Mac in 23
 
 ### Specifications
 
-* Processor: Core i3-5010U 2.1GHz (Turbo Boost up to 3.2GHz)
+* Processor: Core i3-5010U 2.1GHz
 * Graphics: Intel HD5500 (Up to 2GB of shared mem) / 900p 24bit
 * RAM: 4GB DDR3 1600MHz
 * Hard Disk: SATA 320GB HDD
