@@ -16,7 +16,7 @@ So far the build is awesome, it's stable and robust, cold boot time to Mac in 23
 ### What is near 100% completed
 
 * HD5500 2GB / Metal / DRM works on Chrome
-* ALC233 Speakers / Headphones / Mic
+* ALC282 Speakers / Headphones / Mic
 * AC 3160 Wifi / Bluetooth / AirDrop / Location Services
 * Trackpad with Gestures support
 * Proper mapping of USB 2.0/3.0 ports
