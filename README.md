@@ -1,5 +1,6 @@
 # HP-PROBOOK-470-G2-OpenCore
-Successful attempt to install macOS on a 17" HP laptop
+Successful attempt to install macOS on a 17" HP laptop\
+For convenience, the latest [Heliport app can be found here](https://github.com/1hbb/OpenIntelWireless-Factory/releases)
 
 ### Overall
 So far the build is awesome, it's stable and robust, cold boot time to Mac in 23 seconds!
