@@ -29,9 +29,8 @@ So far the build is awesome, it's stable and robust, cold boot time to Mac in 23
 ### Bonus
 * Please use Chrome for DRM content like Netflix
 * Use QuickESP to mount EFI partitions with ease, support me :)
-* ICC Profile that improves the laptop's native colors
+* ICC Profile that improves the laptop's native colors, please select `Rec. ITU-R BT.709-5`
 
 ### What doesn't work
 * Trackpad tap works, but button click does not
-* CMOS results in checksum error after reboot
 * Apple TV DRM (Known issue for all iGPU Hackintosh)
