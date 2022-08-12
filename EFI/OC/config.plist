@@ -202,7 +202,7 @@
 	<dict>
 		<key>Add</key>
 		<dict>
-			<key>PciRoot(0x0)/Pci(0x1B,0x0)</key>
+			<key>PciRoot(0x0)/Pci(0x1b,0x0)</key>
 			<dict>
 				<key>layout-id</key>
 				<data>AwAAAA==</data>
@@ -592,6 +592,8 @@
 			<false/>
 			<key>AppleXcpmForceBoost</key>
 			<false/>
+			<key>CustomPciSerialDevice</key>
+			<false/>
 			<key>CustomSMBIOSGuid</key>
 			<false/>
 			<key>DisableIoMapper</key>
@@ -603,6 +605,8 @@
 			<key>ExtendBTFeatureFlags</key>
 			<false/>
 			<key>ExternalDiskIcons</key>
+			<false/>
+			<key>ForceAquantiaEthernet</key>
 			<false/>
 			<key>ForceSecureBootScheme</key>
 			<false/>
@@ -682,8 +686,8 @@
 			<integer>0</integer>
 			<key>DisplayLevel</key>
 			<integer>2147483650</integer>
-			<key>SerialInit</key>
-			<false/>
+			<key>LogModules</key>
+			<string>*</string>
 			<key>SysReport</key>
 			<false/>
 			<key>Target</key>
@@ -693,12 +697,8 @@
 		<array/>
 		<key>Security</key>
 		<dict>
-			<key>AllowNvramReset</key>
-			<true/>
 			<key>AllowSetDefault</key>
 			<true/>
-			<key>AllowToggleSip</key>
-			<false/>
 			<key>ApECID</key>
 			<integer>0</integer>
 			<key>AuthRestart</key>
@@ -723,6 +723,13 @@
 			<string>Default</string>
 			<key>Vault</key>
 			<string>Optional</string>
+		</dict>
+		<key>Serial</key>
+		<dict>
+			<key>Init</key>
+			<false/>
+			<key>Override</key>
+			<false/>
 		</dict>
 		<key>Tools</key>
 		<array/>
@@ -773,8 +780,6 @@
 				<string>ForceDisplayRotationInEFI</string>
 			</array>
 		</dict>
-		<key>LegacyEnable</key>
-		<false/>
 		<key>LegacyOverwrite</key>
 		<false/>
 		<key>LegacySchema</key>
@@ -925,7 +930,7 @@
 				<key>Arguments</key>
 				<string></string>
 				<key>Comment</key>
-				<string>OpenCanopy.efi</string>
+				<string></string>
 			</dict>
 			<dict>
 				<key>Enabled</key>
@@ -935,7 +940,7 @@
 				<key>Arguments</key>
 				<string></string>
 				<key>Comment</key>
-				<string>OpenHfsPlus.efi</string>
+				<string></string>
 			</dict>
 			<dict>
 				<key>Enabled</key>
@@ -945,7 +950,7 @@
 				<key>Arguments</key>
 				<string></string>
 				<key>Comment</key>
-				<string>OpenRuntime.efi</string>
+				<string></string>
 			</dict>
 		</array>
 		<key>Input</key>
