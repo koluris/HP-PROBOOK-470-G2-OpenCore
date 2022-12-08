@@ -19,7 +19,7 @@ So far the build is awesome, it's stable and robust, cold boot time to Mac in 23
 * ALC282 Speakers / Headphones / Mic
 * AC 3160 Wifi / Bluetooth / AirDrop / Location Services
 * Trackpad with Gestures support
-* Proper mapping of USB 2.0/3.0 ports
+* Proper map of USB 2.0/3.0 ports
 * RTL8111 Ethernet
 * Internal HD Webcam
 * SD Card reader
