@@ -1,4 +1,4 @@
-# HP-PROBOOK-470-G2-OpenCore
+# HP-PROBOOK-470-G2-OpenCore (<a href="https://naden.co">https://naden.co</a>)
 Successful attempt to install macOS on a 17" HP laptop\
 For convenience, the latest [Heliport app can be found here](https://github.com/1hbb/OpenIntelWireless-Factory/releases)
 
